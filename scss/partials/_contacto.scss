@@ -1,0 +1,12 @@
+header{
+    background-color: yellow;
+    nav{
+        text-align: center:center;
+        a{
+            color: red;
+            &:hover{
+                color: blue;
+            }
+        }
+    };
+}
