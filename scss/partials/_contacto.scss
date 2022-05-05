@@ -1,12 +1,15 @@
 header{
     background-color: yellow;
     nav{
-        text-align: center:center;
+        text-align: center;
         a{
             color: red;
+            }
             &:hover{
                 color: blue;
             }
         }
-    };
-}
+        .item-contacto{
+            color: green;
+        }
+    }
